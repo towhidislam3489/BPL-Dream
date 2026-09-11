@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Shakib Al Hasan",
+    "image": "https://www.ilt20.ae/static-assets/images/players/3782.png?v=31.62",
+    "country": "Bangladesh",
+    "playerType": "All-Rounder",
+    "battingStyle": "Left-Handed",
+    "blowingStyle": "Left-Arm Orthodox",
+    "price": 400
+  },
+  {
+    "name": "Virat Kohli",
+    "image": "https://static-files.cricket-australia.pulselive.com/headshots/440/10917-camedia.png",
+    "country": "India",
+    "playerType": "Batter",
+    "battingStyle": "Right-Handed",
+    "blowingStyle": "None",
+    "price": 300
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "image": "https://www.gmrsports.in/static-assets/images/players/other_domestic/3382/63881.png?v=2.86",
+    "country": "Bangladesh",
+    "playerType": "Bowler",
+    "battingStyle": "Left-Handed",
+    "blowingStyle": "Left-Arm Fast",
+    "price": 600
+  },
+  {
+    "name": "Babar Azam",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.1.png",
+    "country": "Pakistan",
+    "playerType": "Batter",
+    "battingStyle": "Right-Handed",
+    "blowingStyle": "None",
+    "price": 400
+  },
+  {
+    "name": "Rashid Khan",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383228.1.png",
+    "country": "Afghanistan",
+    "playerType": "Bowler",
+    "battingStyle": "Right-Handed",
+    "blowingStyle": "Right-Arm Leg Break",
+    "price": 250
+  },
+  {
+    "name": "Jos Buttler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/420700/420768.jpg",
+    "country": "England",
+    "playerType": "Wicket-Keeper Batter",
+    "battingStyle": "Right-Handed",
+    "blowingStyle": "None",
+    "price": 100
+  },
+  {
+    "name": "Ben Stokes",
+    "image": "https://resources.ecb.co.uk/photo-resources/2024/08/13/899175ca-d3f4-406d-8d15-4a6437f48cd4/WEBSITE-2-.jpg?width=1868&height=1136",
+    "country": "England",
+    "playerType": "All-Rounder",
+    "battingStyle": "Left-Handed",
+    "blowingStyle": "Right-Arm Fast-Medium",
+    "price": 350
+  },
+  {
+    "name": "Kane Williamson",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/418100/418161.jpg",
+    "country": "New Zealand",
+    "playerType": "Batter",
+    "battingStyle": "Right-Handed",
+    "blowingStyle": "Right-Arm Off Break",
+    "price": 105
+  },
+  {
+    "name": "Pat Cummins",
+    "image": "https://api.bdcrictime.com/Profile/pat-cummins-10_10_2023.jpg",
+    "country": "Australia",
+    "playerType": "Bowler",
+    "battingStyle": "Right-Handed",
+    "blowingStyle": "Right-Arm Fast",
+    "price": 280
+  }
+]

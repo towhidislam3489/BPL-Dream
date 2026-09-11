@@ -14,7 +14,7 @@ const SelectedPlayerCard = ({ eachSelectPlayer, heandleremoveselectedplayer }: {
                 <div className=" flex  items-center pb-4 rounded-[10px] gap-96  ">
 
                     <div className="mt-10 ml-40">
-                        <div className=" w-[400px]">
+                        <div className=" w-100">
                             <div className='flex items-center font-bold text-2xl gap-4 mb-2'>
                                 <CgProfile />
                                 {eachSelectPlayer.name}

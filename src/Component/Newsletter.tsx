@@ -15,7 +15,7 @@ const Newsletter = () => {
                     </div>
                     <div className="items-center text-center space-x-3" >
                         <input type="email" placeholder="Enter your emial " className="border-2 p-4 w-100 rounded-[5px]" />
-                        <button className="btn btn-warning h-[70px] w-32 rounded-[5px] font-semibold ">Subscribe</button>
+                        <button className="btn btn-warning h-17.5 w-32 rounded-[5px] font-semibold ">Subscribe</button>
                     </div>
                 </div>
             </div>
